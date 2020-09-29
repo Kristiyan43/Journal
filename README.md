@@ -1,2 +1,2 @@
-# Jurnal
+# Journal
 Stuff I have learn 
