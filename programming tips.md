@@ -1,4 +1,4 @@
-# programming tips
+# Programming tips
 
 12/10/2020 - You need to know if your making a behaviour script and calling it or do you want it to be a variable.
 
