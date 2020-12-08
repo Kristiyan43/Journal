@@ -13,3 +13,15 @@
 12/10/2020 - ***Don't forget*** to tick the checkbox on the top right side on unity so your script works.
 
 12/10/2020 - If you want to make a big section of your scrip not to run you can use `/*` from the starting point and `*/` at the end and anything in between we not be run by script. 
+
+25/10/2020 - Linecast is a command that makes a straight line from one point to another it can be used as a tripwire or a laser sensor.  
+
+13/11/2020 - ```this.GetComponent<CantSeeMe>().enabled = true;``` This line of code can enable or disable scrips. 
+
+16/11/2020 - ```foreach (sun s in suns)``` This line of code is used to go through several game object and checks each one of them. 
+
+23/11/2020 - ```DrawRay``` Is better then DrawLine when looking for where does the Raycast hit.
+
+29/11/2020 - Raycast can't go through any colliders.
+
+08/12/2020 - You can reference a game object with a public value and the enable or disable it with. ```.enable = true/false```
