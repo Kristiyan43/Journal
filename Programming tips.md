@@ -14,6 +14,8 @@
 
 12/10/2020 - If you want to make a big section of your scrip not to run you can use `/*` from the starting point and `*/` at the end and anything in between we not be run by script. 
 
+19/10/2020 - ```Time.deltaTime``` Is used to make the game run with the same speed on any devices.
+
 25/10/2020 - Linecast is a command that makes a straight line from one point to another it can be used as a tripwire or a laser sensor.  
 
 13/11/2020 - ```this.GetComponent<CantSeeMe>().enabled = true;``` This line of code can enable or disable scrips. 
