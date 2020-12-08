@@ -2,6 +2,8 @@
 
 ## Stuff I have learn 
 
+29/09/2020 To make a header you just need to add # at the top and right that you want to have on the header.
+
 12/10/2020 - You need to know if your making a behaviour script and calling it or do you want it to be a variable.
 
 12/10/2020 - ***Remember*** if you **change something** from the top of the script like a name you need to make sure the **change name** was changed down the script as well or it will not work.
