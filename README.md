@@ -28,6 +28,6 @@
 
 23/11/2020 - I couldn't tell where were my raycast looking at so I used DrawRay to draw red lin in the direction they are looking at. ```DrawRay``` Is better then DrawLine when looking for where does the Raycast hit.
 
-29/11/2020 - Raycast can't go through any colliders.
+29/11/2020 - Some of my raycast stop working and I didn't know why the reason for that is that raycast can't go through colliders even when the renderer is tick off. Raycast can't go through any colliders.
 
-08/12/2020 - You can reference a game object with a public value and the enable or disable it with. ```.enable = true/false```
+08/12/2020 - I had to turn off a lot of my object and then turned them on so I used .enable to turn them on and off. You can reference a game object with a public value and the enable or disable it with. ```.enable = true/false```
